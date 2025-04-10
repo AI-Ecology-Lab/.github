@@ -6,6 +6,6 @@ Welcome to the AI Ecology Lab! Our research focuses on applying AI to ecology us
 
 Our lab is dedicated to exploring ecological dynamics using AI, with distinct expertise in both marine and terrestrial systems:
 
-- **Marine Ecology (Katie Bigham & Atticus Carter)**
+- **Marine Ecology (Katie Bigham & Ada Carter)**
 
 - **Terrestrial Ecology (Anton Britten)**
